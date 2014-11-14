@@ -6,6 +6,8 @@ describing the function of this code.
 
 Hitting return opens a browser window with the proper RFC for that status code.
 
+![alfred-http](https://cloud.githubusercontent.com/assets/1006966/5054136/93735f3c-6c1f-11e4-8bda-8f523cc9fb5a.jpg)
+
 ## Installation
 
 * Download the [latest
