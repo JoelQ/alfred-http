@@ -18,3 +18,7 @@ release](https://github.com/JoelQ/alfred-http/releases/latest)
 
 Check out the [contributing
 guidelines](https://github.com/JoelQ/alfred-http/blob/master/CONTRIBUTING.md)
+
+## License
+
+This software is licensed under the [MIT licence](https://github.com/JoelQ/alfred-http/blob/master/LICENSE.md)
