@@ -13,3 +13,8 @@ Hitting return opens a browser window with the proper RFC for that status code.
 * Download the [latest
 release](https://github.com/JoelQ/alfred-http/releases/latest)
 * Open finder and doubleclick the `HTTP.Statuses.alfredworkflow` file
+
+## Contributing
+
+Check out the [contributing
+guidelines](https://github.com/JoelQ/alfred-http/blob/master/CONTRIBUTING.md)
